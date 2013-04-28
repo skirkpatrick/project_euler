@@ -12,6 +12,6 @@ Problems Solved
         <th></th><th>C</th><th>C++</th><th>Java</th><th>Python</th>
     </tr>
     <tr>
-        <td>1</td><td></td><td></td><td></td><td></td>
+        <td>1</td><td>✓</td><td></td><td></td><td></td>
     </tr>
 </table>
