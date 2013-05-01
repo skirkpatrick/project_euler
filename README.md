@@ -13,5 +13,6 @@ Problems Solved
     </tr>
     <tr>
         <td>1</td><td>✓</td><td></td><td></td><td></td>
+        <td>2</td><td></td><td></td><td></td><td>✓</td>
     </tr>
 </table>
